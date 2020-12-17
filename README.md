@@ -1,0 +1,2 @@
+# Text-Classification_and_Analytics_with_python
+In this notebook, we explore more advanced machine learning techniques with text data. First, we further explore the text classification we did in the previous lesson to see how we can improve. Next, we introduce the concept of n-grams, which are combinations of one or more tokens. For example, bigrams are combinations of two tokens, while trigrams are combinations of three tokens. Finally, we introdce sentiment analysis with a new text data set.
